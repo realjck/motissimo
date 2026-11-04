@@ -24,6 +24,3 @@ dist-ssr
 *.sw?
 
 _illustrations_png
-
-# Legacy VPS deploy script (contains credentials)
-push_to_debian_www.ps1
