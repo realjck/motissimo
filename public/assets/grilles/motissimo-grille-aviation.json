@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Lieu aménagé pour le décollage et l'atterrissage",
+      "answer": "AEROPORT",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Moteur à propulsion par réaction",
+      "answer": "REACTEUR",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 2,
+      "number": 2
+    },
+    {
+      "clue": "Corps principal de l'appareil abritant passagers et fret",
+      "answer": "FUSELAGE",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Carburant utilisé par les moteurs à réaction",
+      "answer": "KEROSENE",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Appareil de transport aérien muni d'ailes",
+      "answer": "AVION",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Espace réservé à l'équipage technique",
+      "answer": "COCKPIT",
+      "row": 4,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Équipement permettant de freiner l'aterrisage",
+      "answer": "PARACHUTE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Celui qui commande l'appareil",
+      "answer": "PILOTE",
+      "row": 6,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Déplacement d'un engin dans les airs",
+      "answer": "VOL",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Rapidité du déplacement de l'appareil",
+      "answer": "VITESSE",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Aviation"
+}

@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Corps en orbite autour d'une etoile",
+      "answer": "PLANETE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Géante aux anneaux spectaculaires",
+      "answer": "SATURNE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Etoile centrale de notre système",
+      "answer": "SOLEIL",
+      "row": 0,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Satellite naturel de la Terre",
+      "answer": "LUNE",
+      "row": 0,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Outil pour scruter le ciel nocturne",
+      "answer": "TELESCOPE",
+      "row": 2,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Huitième planète du système solaire",
+      "answer": "NEPTUNE",
+      "row": 3,
+      "col": 2,
+      "direction": "across",
+      "score": 3,
+      "number": 5
+    },
+    {
+      "clue": "Colosse gazeux du système solaire",
+      "answer": "JUPITER",
+      "row": 5,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Nuage interstellaire de gaz",
+      "answer": "NEBULEUSE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Chemin suivi par un corps céleste",
+      "answer": "ORBITE",
+      "row": 8,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Trou formé par une météorite",
+      "answer": "CRATERE",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Astronomie"
+}

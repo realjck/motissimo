@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Guide pour la cadence",
+      "answer": "METRONOME",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Ensemble de percussions",
+      "answer": "BATTERIE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Groupe de choristes",
+      "answer": "CHOEUR",
+      "row": 0,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Étude de la théorie musicale",
+      "answer": "SOLFEGE",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Cadence de la musique",
+      "answer": "RYTHME",
+      "row": 3,
+      "col": 6,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Registre vocal élevé",
+      "answer": "SOPRANO",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Œuvre orchestrale majeure",
+      "answer": "SYMPHONIE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Support audio circulaire",
+      "answer": "DISQUE",
+      "row": 8,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Dialogue musical à deux",
+      "answer": "DUO",
+      "row": 8,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Moment pour un seul musicien",
+      "answer": "SOLO",
+      "row": 8,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Musique"
+}

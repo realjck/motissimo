@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Enduit décoratif de plâtre",
+      "answer": "STUC",
+      "row": 0,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Support cylindrique vertical",
+      "answer": "COLONNE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Assise d'une construction",
+      "answer": "FONDATION",
+      "row": 1,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Étage intermédiaire ouvert",
+      "answer": "MEZZANINE",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Outil plat pour le mortier",
+      "answer": "TRUELLE",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Galerie centrale d'une église",
+      "answer": "NEF",
+      "row": 3,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Partie avant d'un bâtiment",
+      "answer": "FACADE",
+      "row": 4,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Structure en bois d'un toit",
+      "answer": "CHARPENTE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Planchette de schiste pour toit",
+      "answer": "ARDOISE",
+      "row": 8,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Escalier devant une porte",
+      "answer": "PERRON",
+      "row": 10,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Architecture"
+}

@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Jeune noble au service d'un chevalier.",
+      "answer": "ECUYER",
+      "row": 0,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Résidence fortifiée d'un seigneur.",
+      "answer": "CHATEAU",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Paysan qui n'était pas libre et attaché à la terre.",
+      "answer": "SERF",
+      "row": 0,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Cachot souterrain profond et sombre.",
+      "answer": "OUBLIETTE",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Cheval de marche utilisé pour les cérémonies.",
+      "answer": "PALEFROI",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Territoire soumis à la juridiction d'un seigneur.",
+      "answer": "BAN",
+      "row": 2,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Fourrure de petit-gris utilisée pour les vêtements.",
+      "answer": "VAIR",
+      "row": 2,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Expédition militaire chrétienne en Terre sainte.",
+      "answer": "CROISADE",
+      "row": 3,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Décoration colorée ornant les manuscrits anciens.",
+      "answer": "ENLUMINURE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Terre concédée par un suzerain à un vassal.",
+      "answer": "FIEF",
+      "row": 8,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Seigneur ayant concédé un fief à un vassal.",
+      "answer": "SUZERAIN",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Moyen Âge"
+}

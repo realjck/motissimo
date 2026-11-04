@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Charge donnée à un détachement pour un but précis",
+      "answer": "MISSION",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Branche des forces de défense opérant sur l'océan",
+      "answer": "MARINE",
+      "row": 0,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Équipement de protection autrefois fait de fer",
+      "answer": "ARMURE",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Individu qui sert dans les forces terrestres",
+      "answer": "SOLDAT",
+      "row": 2,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Engin de combat chenillé et lourdement protégé",
+      "answer": "CHAR",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Appareil servant à localiser des engins à distance",
+      "answer": "RADAR",
+      "row": 4,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Signal prévenant les troupes d'une menace",
+      "answer": "ALERTE",
+      "row": 4,
+      "col": 8,
+      "direction": "down",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Appareil motorisé utilisé par les forces de l'air",
+      "answer": "AVION",
+      "row": 4,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Projectile explosif que l'on jette manuellement",
+      "answer": "GRENADE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Phase offensive finale pour prendre une place forte",
+      "answer": "ASSAUT",
+      "row": 6,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Terrain aménagé pour le séjour des troupes",
+      "answer": "CAMP",
+      "row": 8,
+      "col": 4,
+      "direction": "down",
+      "score": 2,
+      "number": 10
+    },
+    {
+      "clue": "Démonstration cérémonielle de troupes en revue",
+      "answer": "PARADE",
+      "row": 9,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Nation pour laquelle on s'engage à servir",
+      "answer": "PATRIE",
+      "row": 11,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Armée"
+}

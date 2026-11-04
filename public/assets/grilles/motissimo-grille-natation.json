@@ -1,0 +1,140 @@
+{
+  "words": [
+    {
+      "clue": "Cible tactile pour arrêter le temps",
+      "answer": "PLAQUE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Récompense remise sur le podium",
+      "answer": "MEDAILLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Professionnel qui surveille la sécurité des usagers",
+      "answer": "MAITRE",
+      "row": 0,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Flotteur rigide utilisé pour isoler le travail des jambes",
+      "answer": "PLANCHE",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Signal donné par un pistolet ou un bip",
+      "answer": "DEPART",
+      "row": 2,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Technique ressemblant aux mouvements d'une grenouille",
+      "answer": "BRASSE",
+      "row": 4,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Outil de l'arbitre pour signaler une faute",
+      "answer": "SIFFLET",
+      "row": 4,
+      "col": 5,
+      "direction": "across",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Elles empêchent les produits de piquer les yeux",
+      "answer": "LUNETTES",
+      "row": 4,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Manière athlétique de se mouvoir avec les bras symétriques",
+      "answer": "PAPILLON",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Instrument servant à mesurer la performance",
+      "answer": "CHRONO",
+      "row": 6,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Accessoire de pied pour augmenter la propulsion",
+      "answer": "PALME",
+      "row": 7,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Grande cuve remplie de liquide pour s'entraîner",
+      "answer": "BASSIN",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Style pratiqué en regardant le plafond",
+      "answer": "DOS",
+      "row": 9,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Saut effectué depuis le bord ou un support",
+      "answer": "PLONGEON",
+      "row": 10,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    },
+    {
+      "clue": "Substance liquide dans laquelle on évolue",
+      "answer": "EAU",
+      "row": 11,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 14
+    }
+  ],
+  "size": 12,
+  "theme": "Natation"
+}

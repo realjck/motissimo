@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Sculpture sur fond plat",
+      "answer": "RELIEF",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Roche dure polissable",
+      "answer": "MARBRE",
+      "row": 1,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Alliage pour statues",
+      "answer": "BRONZE",
+      "row": 1,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Travail de la matière",
+      "answer": "TAILLE",
+      "row": 2,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Instrument pour tailler",
+      "answer": "CISEAU",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Aspect du bronze vieilli",
+      "answer": "PATINE",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Auteur du Penseur",
+      "answer": "RODIN",
+      "row": 3,
+      "col": 7,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Roche extraite du sol",
+      "answer": "PIERRE",
+      "row": 5,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Terre pour modeler",
+      "answer": "ARGILE",
+      "row": 6,
+      "col": 3,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Matériau du potier",
+      "answer": "TERRE",
+      "row": 7,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Matériau de l'arbre",
+      "answer": "BOIS",
+      "row": 8,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Produit synthétique moulé",
+      "answer": "RESINE",
+      "row": 8,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Liant de construction",
+      "answer": "CIMENT",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Sculpture"
+}

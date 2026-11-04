@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "clue": "Jeune personne chargée de récupérer les projectiles.",
+      "answer": "RAMASSEUR",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Instrument muni d'un tamis pour frapper la balle.",
+      "answer": "RAQUETTE",
+      "row": 0,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Coup de base exécuté du côté de la main dominante.",
+      "answer": "COUPDROIT",
+      "row": 2,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Action de mettre la balle en jeu.",
+      "answer": "SERVICE",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Unité de score permettant de remporter un set.",
+      "answer": "JEU",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Herbe coupée court comme à Wimbledon.",
+      "answer": "GAZON",
+      "row": 3,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Officiel qui dirige la rencontre.",
+      "answer": "ARBITRE",
+      "row": 3,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Point gagné sur un engagement sans que l'adversaire ne touche la balle.",
+      "answer": "ACE",
+      "row": 3,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Épreuve de départage en fin de set.",
+      "answer": "JEUDECISIF",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Fait de gagner le jeu de service de son opposant.",
+      "answer": "BREAK",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Surface ocre caractéristique de Roland-Garros.",
+      "answer": "TERRE",
+      "row": 8,
+      "col": 6,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Point marqué après une égalité à quarante.",
+      "answer": "AVANTAGE",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Tennis"
+}

@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Noble ayant fui la France pour échapper à la Révolution",
+      "answer": "EMIGRE",
+      "row": 0,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Action collective violente contre l'autorité",
+      "answer": "REVOLTE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Phase sanglante de la période révolutionnaire",
+      "answer": "TERREUR",
+      "row": 1,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Nom de l'assemblée constituante de la Première République",
+      "answer": "CONVENTION",
+      "row": 2,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Ensemble des ecclésiastiques sous l'Ancien Régime",
+      "answer": "CLERGE",
+      "row": 2,
+      "col": 2,
+      "direction": "across",
+      "score": 3,
+      "number": 4
+    },
+    {
+      "clue": "Instrument tranchant utilisé pour les exécutions",
+      "answer": "GUILLOTINE",
+      "row": 2,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Texte voté définissant les règles de vie commune",
+      "answer": "LOI",
+      "row": 3,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Louis XVI occupait ce poste avant sa chute",
+      "answer": "ROI",
+      "row": 4,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Régime politique fondé sur la souveraineté du peuple",
+      "answer": "REPUBLIQUE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Pouvoir d'opposition utilisé par le monarque",
+      "answer": "VETO",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Impôt qu'il fallait payer pour être électeur",
+      "answer": "CENS",
+      "row": 8,
+      "col": 8,
+      "direction": "down",
+      "score": 2,
+      "number": 10
+    },
+    {
+      "clue": "Capacité d'agir sans contrainte injuste",
+      "answer": "LIBERTE",
+      "row": 9,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Groupe social possédant des titres héréditaires",
+      "answer": "NOBLESSE",
+      "row": 11,
+      "col": 2,
+      "direction": "across",
+      "score": 2,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Révolution"
+}

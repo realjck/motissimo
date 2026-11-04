@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Bloc de glace entouré de crevasses",
+      "answer": "SERAC",
+      "row": 0,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Versant d'une montagne situé à l'ombre",
+      "answer": "UBAC",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Campement sommaire en plein air",
+      "answer": "BIVOUAC",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Ligne de jonction supérieure de deux versants",
+      "answer": "CRETE",
+      "row": 1,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Petite fleur blanche des hautes cimes",
+      "answer": "EDELWEISS",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Personne pratiquant l'escalade de hauts sommets",
+      "answer": "ALPINISTE",
+      "row": 2,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Espace situé entre deux versants",
+      "answer": "VALLEE",
+      "row": 3,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Passage entre deux sommets",
+      "answer": "COL",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Masse de neige qui dévale une pente",
+      "answer": "AVALANCHE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Rongeur des montagnes qui hiberne",
+      "answer": "MARMOTTE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Montagnes"
+}

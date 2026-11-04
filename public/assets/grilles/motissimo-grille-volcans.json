@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Dieu romain du feu",
+      "answer": "VULCAIN",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Ouverture au sommet",
+      "answer": "CRATERE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Jet de gaz volcanique",
+      "answer": "FUMEROLLE",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Rejet brutal de matière",
+      "answer": "ERUPTION",
+      "row": 1,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Vaste cratère d'effondrement",
+      "answer": "CALDEIRA",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Roche de cendres tassées",
+      "answer": "TUF",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Verre volcanique naturel",
+      "answer": "OBSIDIENNE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "État d'un volcan qui n'est ni éteint, ni endormi",
+      "answer": "ACTIF",
+      "row": 8,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Structure du volcan",
+      "answer": "CONE",
+      "row": 8,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Géant de Sicile",
+      "answer": "ETNA",
+      "row": 10,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Volcans"
+}

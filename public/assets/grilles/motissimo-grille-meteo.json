@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "clue": "Eau du ciel",
+      "answer": "PLUIE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Vent tournant",
+      "answer": "CYCLONE",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Grand chaud",
+      "answer": "CANICULE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Forte tempête",
+      "answer": "OURAGAN",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Froid intense",
+      "answer": "GEL",
+      "row": 2,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Feu du ciel",
+      "answer": "FOUDRE",
+      "row": 3,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Air brûlant",
+      "answer": "CHALEUR",
+      "row": 4,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Astre du jour",
+      "answer": "SOLEIL",
+      "row": 5,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Nuage au sol",
+      "answer": "BROUILLARD",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Pluie de glace",
+      "answer": "GRELE",
+      "row": 8,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Fonte de glace",
+      "answer": "DEGEL",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 2,
+      "number": 11
+    },
+    {
+      "clue": "Flash céleste",
+      "answer": "ECLAIR",
+      "row": 10,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Météo"
+}

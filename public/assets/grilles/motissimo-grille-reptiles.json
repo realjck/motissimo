@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Lézard à la peau très lisse",
+      "answer": "SCINQUE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Surnommé serpent de verre",
+      "answer": "ORVET",
+      "row": 1,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Il change de couleur pour se camoufler",
+      "answer": "CAMELEON",
+      "row": 1,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Le plus lourd des serpents",
+      "answer": "ANACONDA",
+      "row": 2,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Lézard capable de courir sur l'eau",
+      "answer": "BASILIC",
+      "row": 2,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Grande couleuvre d'Europe ou d'Asie",
+      "answer": "ELAPHE",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Serpent inoffensif des jardins",
+      "answer": "COULEUVRE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Serpent venimeux à tête triangulaire",
+      "answer": "VIPERE",
+      "row": 6,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Serpent d'Asie aux anneaux colorés",
+      "answer": "KRAIT",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Le géant de Komodo",
+      "answer": "VARAN",
+      "row": 7,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Petit saurien du désert ou des rochers",
+      "answer": "AGAME",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Petit reptile agile des vieux murs",
+      "answer": "LEZARD",
+      "row": 9,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Elle se cache sous une carapace",
+      "answer": "TORTUE",
+      "row": 11,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Reptiles"
+}

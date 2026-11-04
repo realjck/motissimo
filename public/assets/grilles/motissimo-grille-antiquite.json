@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Cité-État grecque, berceau de la démocratie",
+      "answer": "ATHENES",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Lieu sablé des combats de gladiateurs",
+      "answer": "ARENE",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Prêtresse dévouée au culte du feu sacré à Rome",
+      "answer": "VESTALE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 2,
+      "number": 2
+    },
+    {
+      "clue": "Tombeau monumental en pierre des rois d'Égypte",
+      "answer": "PYRAMIDE",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Titre du souverain de l'Égypte ancienne",
+      "answer": "PHARAON",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Support d'écriture fabriqué à partir d'une plante",
+      "answer": "PAPYRUS",
+      "row": 2,
+      "col": 3,
+      "direction": "across",
+      "score": 2,
+      "number": 4
+    },
+    {
+      "clue": "Guerrier réputé pour sa discipline et sa rigueur",
+      "answer": "SPARTIATE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 5
+    },
+    {
+      "clue": "L'imperator qui a conquis la Gaule",
+      "answer": "CESAR",
+      "row": 7,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Sa grande beauté causa la guerre de Troie",
+      "answer": "HELENE",
+      "row": 8,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Assemblée politique suprême de la Rome antique",
+      "answer": "SENAT",
+      "row": 10,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    }
+  ],
+  "size": 12,
+  "theme": "Antiquité"
+}

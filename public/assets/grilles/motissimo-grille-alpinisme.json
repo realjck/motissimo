@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "clue": "Plaque de neige durcie persistant même en été",
+      "answer": "NEVE",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Pointes métalliques fixées sous les chaussures pour marcher sur la glace",
+      "answer": "CRAMPONS",
+      "row": 0,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Personne pratiquant l'ascension des hautes montagnes",
+      "answer": "ALPINISTE",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Ensemble de deux mousquetons reliés par une sangle courte",
+      "answer": "DEGAINE",
+      "row": 1,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Escalade de parois rocheuses abruptes",
+      "answer": "VARAPPE",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Outil à manche muni d'une lame et d'une panne pour s'ancrer",
+      "answer": "PIOLET",
+      "row": 4,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Harnais de sécurité porté à la taille pour s'attacher au filin",
+      "answer": "BAUDRIER",
+      "row": 4,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Clou métallique que l'on enfonce dans une fissure du rocher",
+      "answer": "PITON",
+      "row": 4,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Anneau métallique avec ressort servant à relier les équipements",
+      "answer": "MOUSQUETON",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Face rocheuse ou glaciaire très raide",
+      "answer": "PAROI",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Ligne de rencontre de deux versants d'une montagne",
+      "answer": "ARETE",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 11
+    },
+    {
+      "clue": "Fente profonde et étroite dans la glace d'un glacier",
+      "answer": "CREVASSE",
+      "row": 10,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Alpinisme"
+}

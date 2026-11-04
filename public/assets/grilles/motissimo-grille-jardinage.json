@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Zone du jardin dédiée aux légumes.",
+      "answer": "POTAGER",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Produit apportant des nutriments aux végétaux.",
+      "answer": "ENGRAIS",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Pince coupante pour la taille des branches.",
+      "answer": "SECATEUR",
+      "row": 3,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Support de culture composé de matières organiques.",
+      "answer": "TERREAU",
+      "row": 3,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Planter un jeune végétal à sa place définitive.",
+      "answer": "REPIQUER",
+      "row": 3,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Liquide nourricier circulant dans les tiges.",
+      "answer": "SEVE",
+      "row": 4,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Ramener la terre autour d'un pied pour le protéger.",
+      "answer": "BUTTER",
+      "row": 5,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Récipient muni d'une pomme pour humidifier.",
+      "answer": "ARROSOIR",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Opération consistant à unir deux plantes.",
+      "answer": "GREFFE",
+      "row": 9,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Petit invertébré qui aère naturellement le sol.",
+      "answer": "VER",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Jardinage"
+}

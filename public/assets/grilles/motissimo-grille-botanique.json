@@ -1,0 +1,140 @@
+{
+  "words": [
+    {
+      "clue": "Organe vert effectuant les échanges gazeux",
+      "answer": "FEUILLE",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Produit comestible provenant de la fleur",
+      "answer": "FRUIT",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Organe mâle de la fleur portant les anthères",
+      "answer": "ETAMINE",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Feuille accompagnant une fleur ou inflorescence",
+      "answer": "BRACTEE",
+      "row": 2,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Support principal des organes aériens",
+      "answer": "TIGE",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Plante verte se reproduisant par des spores",
+      "answer": "FOUGERE",
+      "row": 4,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Organe femelle situé au centre de la corolle",
+      "answer": "PISTIL",
+      "row": 4,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Végétal grimpant typique des forêts humides",
+      "answer": "LIANE",
+      "row": 4,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "État initial d'une fleur ou d'un rameau",
+      "answer": "BOURGEON",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Fleur qui n'est pas encore épanouie",
+      "answer": "BOUTON",
+      "row": 6,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Contient l'embryon et les réserves nutritives",
+      "answer": "GRAINE",
+      "row": 6,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Tissu végétal dur appelé aussi xylème",
+      "answer": "BOIS",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Tige souterraine à croissance horizontale",
+      "answer": "RHIZOME",
+      "row": 9,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Cellule servant à la reproduction non sexuée",
+      "answer": "SPORE",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 12
+    },
+    {
+      "clue": "Pièce colorée constituant la corolle",
+      "answer": "PETALE",
+      "row": 11,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Botanique"
+}

@@ -1,0 +1,13 @@
+# Autoriser tous les robots
+User-agent: *
+
+# Autoriser l'accès aux ressources statiques (très important pour React)
+Allow: /static/
+Allow: /assets/
+
+# Bloquer uniquement ce qui n'est pas nécessaire
+Disallow: /private/
+Disallow: /build/
+
+# Lien vers votre sitemap (à adapter avec votre domaine)
+Sitemap: https://motissimo.pxly.fr/sitemap.xml

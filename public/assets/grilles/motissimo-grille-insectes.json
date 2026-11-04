@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Chanteur des foyers.",
+      "answer": "GRILLON",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Prédatrice aux quatre ailes.",
+      "answer": "LIBELLULE",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Insecte coureur très rapide.",
+      "answer": "CICINDELE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Rongeur de bois en colonie.",
+      "answer": "TERMITE",
+      "row": 1,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Travailleuse en colonie.",
+      "answer": "FOURMI",
+      "row": 2,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Insecte aux pinces abdominales.",
+      "answer": "FORFICULE",
+      "row": 2,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Roule des boules de fumier.",
+      "answer": "BOUSIER",
+      "row": 3,
+      "col": 5,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Piqueur assoiffé de sang.",
+      "answer": "MOUSTIQUE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Insecte au corps rayé de jaune.",
+      "answer": "GUEPE",
+      "row": 8,
+      "col": 5,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Parasite du cuir chevelu.",
+      "answer": "POU",
+      "row": 9,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Punaise d'eau nageant sur le dos.",
+      "answer": "NOTONECTE",
+      "row": 10,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Insectes"
+}

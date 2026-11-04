@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Support pour écrire les leçons.",
+      "answer": "CAHIER",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Restaurant réservé aux écoliers.",
+      "answer": "CANTINE",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Surface noire ou verte pour l'enseignant.",
+      "answer": "TABLEAU",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Instrument plat pour tracer des traits.",
+      "answer": "REGLE",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 4
+    },
+    {
+      "clue": "Outil en bois pour dessiner ou écrire.",
+      "answer": "CRAYON",
+      "row": 4,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Exercices à réaliser à la maison.",
+      "answer": "DEVOIRS",
+      "row": 5,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Sac porté sur le dos pour le matériel.",
+      "answer": "CARTABLE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Enfant qui suit un enseignement.",
+      "answer": "ELEVE",
+      "row": 7,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Évaluation finale pour vérifier les acquis.",
+      "answer": "EXAMEN",
+      "row": 9,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Salle de travail ou groupe d'étudiants.",
+      "answer": "CLASSE",
+      "row": 11,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "École"
+}

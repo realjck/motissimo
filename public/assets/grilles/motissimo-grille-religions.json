@@ -1,0 +1,131 @@
+{
+  "words": [
+    {
+      "clue": "Personne canonisée pour sa piété exemplaire",
+      "answer": "SAINT",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Table consacrée pour le sacrifice ou les rites religieux",
+      "answer": "AUTEL",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 2,
+      "number": 2
+    },
+    {
+      "clue": "Créateur suprême dans les religions monothéistes",
+      "answer": "DIEU",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Guide spirituel qui dirige la prière dans une mosquée",
+      "answer": "IMAM",
+      "row": 1,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Supérieur d'un monastère d'hommes",
+      "answer": "ABBE",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Ministre d'un culte chargé de célébrer les offices",
+      "answer": "PRETRE",
+      "row": 2,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Édifice public consacré au culte d'une divinité",
+      "answer": "TEMPLE",
+      "row": 2,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Lieu de culte des musulmans",
+      "answer": "MOSQUEE",
+      "row": 2,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Édifice consacré au culte chrétien",
+      "answer": "EGLISE",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "École de bouddhisme mettant l'accent sur la méditation",
+      "answer": "ZEN",
+      "row": 4,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "L'Éveillé, fondateur d'une grande voie spirituelle orientale",
+      "answer": "BOUDDHA",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 11
+    },
+    {
+      "clue": "Reste du corps d'un saint ou objet lui ayant appartenu",
+      "answer": "RELIQUE",
+      "row": 8,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Ensemble de règles et de cérémonies d'une religion",
+      "answer": "RITE",
+      "row": 8,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Demeure éternelle de la divinité et des bienheureux",
+      "answer": "CIEL",
+      "row": 11,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Religions"
+}

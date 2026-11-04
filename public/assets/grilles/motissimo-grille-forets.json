@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Fixation souterraine",
+      "answer": "RACINE",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Substance gluante",
+      "answer": "RESINE",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 2,
+      "number": 1
+    },
+    {
+      "clue": "Sujet portant des fruits écailleux",
+      "answer": "CONIFERE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Sujet de Noël",
+      "answer": "SAPIN",
+      "row": 0,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Grand végétal ligneux",
+      "answer": "ARBRE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Végétal à cime arrondie",
+      "answer": "ORME",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Petit chemin tracé",
+      "answer": "SENTIER",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Partie du houppier",
+      "answer": "BRANCHE",
+      "row": 3,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Plante aux frondes",
+      "answer": "FOUGERE",
+      "row": 4,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Voûte verte",
+      "answer": "FRONDAISON",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Grand cervidé à ramure",
+      "answer": "CERF",
+      "row": 8,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Résineux à aiguilles",
+      "answer": "PIN",
+      "row": 8,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Organe de la photosynthèse",
+      "answer": "FEUILLE",
+      "row": 9,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Forêts"
+}

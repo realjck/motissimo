@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Chef d'un département administratif au gouvernement.",
+      "answer": "MINISTRE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Parlementaire siégeant au Palais du Luxembourg.",
+      "answer": "SENATEUR",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Ensemble des opérations de vote et de dépouillement.",
+      "answer": "SCRUTIN",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Personne qui sollicite les suffrages des électeurs.",
+      "answer": "CANDIDAT",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Mission confiée par les électeurs à un élu.",
+      "answer": "MANDAT",
+      "row": 3,
+      "col": 3,
+      "direction": "across",
+      "score": 2,
+      "number": 4
+    },
+    {
+      "clue": "Faculté légale d'exercer l'autorité politique.",
+      "answer": "POUVOIR",
+      "row": 4,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Régime où le chef de l'État n'est pas héréditaire.",
+      "answer": "REPUBLIQUE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 6
+    },
+    {
+      "clue": "Droit de s'opposer à l'adoption d'une résolution.",
+      "answer": "VETO",
+      "row": 8,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Acte administratif émanant du pouvoir exécutif.",
+      "answer": "DECRET",
+      "row": 9,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Individu choisi par le peuple pour le représenter.",
+      "answer": "ELU",
+      "row": 9,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Règle juridique obligatoire votée par le Parlement.",
+      "answer": "LOI",
+      "row": 11,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Politique"
+}

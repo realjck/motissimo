@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Orientation actuelle du goût collectif",
+      "answer": "TENDANCE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Matière textile souple et tissée",
+      "answer": "TISSU",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Créateur de nouveaux vêtements",
+      "answer": "STYLISTE",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Fibre naturelle précieuse et brillante",
+      "answer": "SOIE",
+      "row": 0,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Professionnel qui présente les habits",
+      "answer": "MANNEQUIN",
+      "row": 2,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Lieu de fabrication des vêtements",
+      "answer": "ATELIER",
+      "row": 3,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Style ou apparence d'une personne",
+      "answer": "LOOK",
+      "row": 3,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Art d'assembler des tissus avec du fil",
+      "answer": "COUTURE",
+      "row": 5,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Ligne de vêtements d'un créateur",
+      "answer": "COLLECTION",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Façon dont un habit est taillé",
+      "answer": "COUPE",
+      "row": 9,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Vêtement féminin descendant de la taille",
+      "answer": "JUPE",
+      "row": 11,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Mode"
+}

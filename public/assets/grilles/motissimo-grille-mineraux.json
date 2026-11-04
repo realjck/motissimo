@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "clue": "Cristal de roche commun",
+      "answer": "QUARTZ",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Source de phosphate",
+      "answer": "APATITE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Carbonate de cuivre vert",
+      "answer": "MALACHITE",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Brille en feuillets",
+      "answer": "MICA",
+      "row": 2,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Carbone pur très dur",
+      "answer": "DIAMANT",
+      "row": 2,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Pierre précieuse souvent jaune",
+      "answer": "TOPAZE",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Métal rouge conducteur",
+      "answer": "CUIVRE",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Constituant du calcaire",
+      "answer": "CALCITE",
+      "row": 5,
+      "col": 7,
+      "direction": "down",
+      "score": 2,
+      "number": 8
+    },
+    {
+      "clue": "Très courant dans les roches",
+      "answer": "FELDSPATH",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Métal aimanté",
+      "answer": "FER",
+      "row": 6,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Pierre aux couleurs variées",
+      "answer": "FLUORINE",
+      "row": 9,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Surnommée l'or des fous",
+      "answer": "PYRITE",
+      "row": 11,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Minéraux"
+}

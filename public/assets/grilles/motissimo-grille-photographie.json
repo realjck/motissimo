@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Appareil muni d'un miroir de visée",
+      "answer": "REFLEX",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Sujet parfaitement mis au point",
+      "answer": "NET",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Écart entre les ombres et les lumières",
+      "answer": "CONTRASTE",
+      "row": 1,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Rideau contrôlant le temps de prise",
+      "answer": "OBTURATEUR",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Morceau de verre poli d'une optique",
+      "answer": "LENTILLE",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Objectif à focale variable",
+      "answer": "ZOOM",
+      "row": 3,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Durée de capture de la lumière",
+      "answer": "POSE",
+      "row": 4,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Dispositif pour régler l'ouverture",
+      "answer": "DIAPHRAGME",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Bande de photos pour ancien boîtier",
+      "answer": "PELLICULE",
+      "row": 8,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Mesure de sensibilité du capteur",
+      "answer": "ISO",
+      "row": 8,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 10
+    },
+    {
+      "clue": "Correction numérique d'un cliché",
+      "answer": "RETOUCHE",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Photographie"
+}

@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Monument funéraire colossal en forme de triangle.",
+      "answer": "PYRAMIDE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Petit primate endémique de l'île de Madagascar.",
+      "answer": "LEMURIEN",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Tambour traditionnel utilisé pour la communication.",
+      "answer": "TAMTAM",
+      "row": 0,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Partie occidentale du monde arabe, au nord de l'Afrique.",
+      "answer": "MAGHREB",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Arbre emblématique au tronc massif et aux branches nues.",
+      "answer": "BAOBAB",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Vaste désert de sable au nord du continent.",
+      "answer": "SAHARA",
+      "row": 3,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Longue robe traditionnelle portée au Maghreb.",
+      "answer": "DJELLABA",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Massif montagneux s'étendant sur le Maghreb.",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Capitale dynamique du Ghana sur la côte atlantique.",
+      "answer": "ACCRA",
+      "row": 6,
+      "col": 9,
+      "direction": "down",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Métropole égyptienne abritant les grandes pyramides.",
+      "answer": "CAIRE",
+      "row": 9,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Afrique"
+}

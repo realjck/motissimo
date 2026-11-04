@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Machine pour perforer divers matériaux.",
+      "answer": "PERCEUSE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Pièce à insérer dans un trou pour stabiliser.",
+      "answer": "CHEVILLE",
+      "row": 1,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Cylindre pour étaler la peinture.",
+      "answer": "ROULEAU",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Il sert à percuter ou enfoncer des pointes.",
+      "answer": "MARTEAU",
+      "row": 3,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Instrument pour vérifier l'horizontalité.",
+      "answer": "NIVEAU",
+      "row": 3,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Outil à main pour étaler le ciment.",
+      "answer": "TRUELLE",
+      "row": 4,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Ustensile en poils pour appliquer un liquide.",
+      "answer": "PINCEAU",
+      "row": 4,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Il permet d'agir sur la tête des fixations.",
+      "answer": "TOURNEVIS",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Lame dentée pour débiter le bois.",
+      "answer": "SCIE",
+      "row": 8,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Table massive de l'artisan.",
+      "answer": "ETABLI",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Dispositif de serrage fixé sur un plan de travail.",
+      "answer": "ETAU",
+      "row": 11,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Bricolage"
+}

@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Criard au bord de mer",
+      "answer": "GOELAND",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "En nuage bruyant",
+      "answer": "ETOURNEAU",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Nocturne sans aigrettes",
+      "answer": "CHOUETTE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Habitant du Grand Nord",
+      "answer": "PINGOUIN",
+      "row": 1,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Nocturne avec aigrettes",
+      "answer": "HIBOU",
+      "row": 2,
+      "col": 6,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Gros bec exotique",
+      "answer": "TOUCAN",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Coureur des savanes",
+      "answer": "AUTRUCHE",
+      "row": 3,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Oiseau parleur coloré",
+      "answer": "PERROQUET",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Majestueux oiseau blanc",
+      "answer": "CYGNE",
+      "row": 8,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Petit rapace des bois",
+      "answer": "EPERVIER",
+      "row": 10,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Oiseaux"
+}

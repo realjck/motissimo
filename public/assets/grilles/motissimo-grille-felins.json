@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Yeux bleus et masque noir",
+      "answer": "SIAMOIS",
+      "row": 0,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Surnom pour un animal familier",
+      "answer": "MISTIGRI",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Lynx roux américain",
+      "answer": "BOBCAT",
+      "row": 1,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Petit tacheté latin",
+      "answer": "OCELOT",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Grimpeur aux taches rondes",
+      "answer": "LEOPARD",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Africain aux grandes oreilles",
+      "answer": "SERVAL",
+      "row": 3,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Petit chat du Brésil",
+      "answer": "ONCILLE",
+      "row": 4,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Surnom du léopard noir",
+      "answer": "PANTHERE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Hybride de tigre et lionne",
+      "answer": "TIGRON",
+      "row": 6,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Arme rétractile",
+      "answer": "GRIFFE",
+      "row": 9,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Bruit de satisfaction",
+      "answer": "RONRON",
+      "row": 11,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Félins"
+}

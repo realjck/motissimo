@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Lame d'acier enroulée servant de moteur",
+      "answer": "RESSORT",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Élément circulaire denté du rouage",
+      "answer": "ROUE",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Volant effectuant des oscillations régulières",
+      "answer": "BALANCIER",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Tige mobile qui pointe les chiffres",
+      "answer": "AIGUILLE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Bouton moleté servant au remontage",
+      "answer": "COURONNE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Ressort très fin réglant les oscillations",
+      "answer": "SPIRAL",
+      "row": 2,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Cylindre abritant le ressort de marche",
+      "answer": "BARILLET",
+      "row": 4,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Dispositif annulant les effets de la pesanteur",
+      "answer": "TOURBILLON",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Second son du mécanisme en marche",
+      "answer": "TAC",
+      "row": 9,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Lien fixant l'objet autour du bras",
+      "answer": "BRACELET",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Horlogerie"
+}

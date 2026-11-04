@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Dieu de la beauté masculine et des arts",
+      "answer": "APOLLON",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Frère de Zeus qui commande aux océans",
+      "answer": "POSEIDON",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Il fut enfermé par Minos dans un dédale",
+      "answer": "MINOTAURE",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Beau jeune homme changé en fleur",
+      "answer": "NARCISSE",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Épouse de Zeus et protectrice des femmes",
+      "answer": "HERA",
+      "row": 3,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Sœur jumelle d'Apollon et reine des bois",
+      "answer": "ARTEMIS",
+      "row": 3,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Le plus fourbe des dieux de la mythologie scandinave",
+      "answer": "LOKI",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Elle est née de l'écume de la mer",
+      "answer": "APHRODITE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Les dieux juraient par les eaux de ce fleuve",
+      "answer": "STYX",
+      "row": 8,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Créature de la forêt, mi-humaine mi-équine",
+      "answer": "CENTAURE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Mythologie"
+}

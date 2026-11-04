@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Récits américains",
+      "answer": "COMICS",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Script du dessinateur",
+      "answer": "SCENARIO",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Petit carré illustré",
+      "answer": "VIGNETTE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Page de dessins",
+      "answer": "PLANCHE",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Chute humoristique",
+      "answer": "GAG",
+      "row": 2,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Calligraphie des bulles",
+      "answer": "LETTRAGE",
+      "row": 4,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Professionnel des teintes",
+      "answer": "COLORISTE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Livreur de menhirs",
+      "answer": "OBELIX",
+      "row": 6,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Petit chien gaulois",
+      "answer": "IDEFIX",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Ami de Fantasio",
+      "answer": "SPIROU",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Bande dessinée"
+}

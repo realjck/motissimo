@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Il arrose Toulouse et Bordeaux",
+      "answer": "GARONNE",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Le plus puissant débit au monde en Amérique du Sud",
+      "answer": "AMAZONE",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Il alimente les célèbres chutes Victoria",
+      "answer": "ZAMBEZE",
+      "row": 2,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Grand cours d'eau traversant l'Afrique centrale",
+      "answer": "CONGO",
+      "row": 4,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Le plus long de Chine, aussi appelé fleuve Bleu",
+      "answer": "YANGTSE",
+      "row": 5,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Il marque la limite entre le Mali et la Mauritanie",
+      "answer": "SENEGAL",
+      "row": 5,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Grand système fluvial coulant au nord du Canada",
+      "answer": "MACKENZIE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Il traverse plusieurs capitales comme Vienne et Budapest",
+      "answer": "DANUBE",
+      "row": 8,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Grand fleuve de Sibérie débouchant sur la mer de Laptev",
+      "answer": "LENA",
+      "row": 8,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Traverse la Belgique pour rejoindre la mer du Nord",
+      "answer": "ESCAUT",
+      "row": 10,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Le plus long d'Europe, situé en Russie",
+      "answer": "VOLGA",
+      "row": 11,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Fleuves"
+}

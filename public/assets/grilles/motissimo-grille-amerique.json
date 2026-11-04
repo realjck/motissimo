@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Foyer de la musique country",
+      "answer": "NASHVILLE",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Fils du soleil dans les montagnes",
+      "answer": "INCA",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 2
+    },
+    {
+      "clue": "Le plus long fleuve du continent",
+      "answer": "AMAZONE",
+      "row": 1,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Grande métropole de l'Illinois",
+      "answer": "CHICAGO",
+      "row": 3,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Unité monétaire des États-Unis",
+      "answer": "DOLLAR",
+      "row": 5,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Le temple du septième art",
+      "answer": "HOLLYWOOD",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 6
+    },
+    {
+      "clue": "La plus grande île des Antilles",
+      "answer": "CUBA",
+      "row": 6,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Exploitation agricole extensive",
+      "answer": "RANCH",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Ancien peuple du Mexique central",
+      "answer": "AZTEQUE",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Rythme endiablé des Caraïbes",
+      "answer": "SALSA",
+      "row": 9,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Pays s'étirant le long des Andes",
+      "answer": "CHILI",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Amérique"
+}

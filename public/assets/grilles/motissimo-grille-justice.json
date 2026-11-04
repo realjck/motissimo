@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Auxiliaire qui défend une partie.",
+      "answer": "AVOCAT",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Décision finale d'un jury criminel.",
+      "answer": "VERDICT",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Petite pièce où loge un détenu.",
+      "answer": "CELLULE",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Suspension de l'exécution d'une condamnation.",
+      "answer": "SURSIS",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Dénonciation d'un préjudice auprès du procureur.",
+      "answer": "PLAINTE",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Règle établie par l'autorité souveraine.",
+      "answer": "LOI",
+      "row": 3,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Lieu de détention pour les condamnés.",
+      "answer": "PRISON",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Lieu où les litiges sont tranchés.",
+      "answer": "TRIBUNAL",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Punition infligée par la société.",
+      "answer": "PEINE",
+      "row": 7,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Recherche de la vérité par la police.",
+      "answer": "ENQUETE",
+      "row": 8,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Infraction moins grave qu'un crime.",
+      "answer": "DELIT",
+      "row": 11,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Justice"
+}

@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Grand marsupial qui se déplace en sautant.",
+      "answer": "KANGOUROU",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Oiseau coureur emblématique de Nouvelle-Zélande.",
+      "answer": "KIWI",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Une des trois grandes régions traditionnelles de l'Océanie.",
+      "answer": "MELANESIE",
+      "row": 1,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "État composé d'atolls dispersés sur l'équateur.",
+      "answer": "KIRIBATI",
+      "row": 2,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "État insulaire situé au sud-est de l'Australie.",
+      "answer": "TASMANIE",
+      "row": 3,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "État mélanésien composé d'environ 80 îles.",
+      "answer": "VANUATU",
+      "row": 4,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Territoire français voisin de Wallis.",
+      "answer": "FUTUNA",
+      "row": 5,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Arme de jet australienne qui revient à son lanceur.",
+      "answer": "BOOMERANG",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "État insulaire dont la capitale est Suva.",
+      "answer": "FIDJI",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Chef-lieu de la collectivité de Nouvelle-Calédonie.",
+      "answer": "NOUMEA",
+      "row": 10,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Océanie"
+}

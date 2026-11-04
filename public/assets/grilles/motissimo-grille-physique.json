@@ -1,0 +1,140 @@
+{
+  "words": [
+    {
+      "clue": "Région où s'exerce une influence",
+      "answer": "CHAMP",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Attraction entre deux masses",
+      "answer": "GRAVITE",
+      "row": 0,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Rapport de la distance sur le temps",
+      "answer": "VITESSE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Rupture d'un noyau atomique",
+      "answer": "FISSION",
+      "row": 1,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Particule neutre du noyau",
+      "answer": "NEUTRON",
+      "row": 2,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Mesure de l'inertie d'un corps",
+      "answer": "MASSE",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Bloc de verre réfractant la lumière",
+      "answer": "PRISME",
+      "row": 4,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Particule constitutive de la matière",
+      "answer": "ATOME",
+      "row": 5,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Branche traitant de la vision",
+      "answer": "OPTIQUE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Constituant élémentaire du nucléon",
+      "answer": "QUARK",
+      "row": 6,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Unité de tension électrique",
+      "answer": "VOLT",
+      "row": 8,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Propagation d'une perturbation",
+      "answer": "ONDE",
+      "row": 8,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Unité de travail et d'énergie",
+      "answer": "JOULE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    },
+    {
+      "clue": "Trajet rectiligne de la lumière",
+      "answer": "RAYON",
+      "row": 9,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 14
+    },
+    {
+      "clue": "Milieu privé de toute matière",
+      "answer": "VIDE",
+      "row": 11,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 15
+    }
+  ],
+  "size": 12,
+  "theme": "Physique"
+}

@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Petite table ronde sur un pied central",
+      "answer": "GUERIDON",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Ensemble de tablettes superposées",
+      "answer": "RAYONNAGE",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Meuble à étagères pour exposer les plats",
+      "answer": "VAISSELIER",
+      "row": 1,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Siège individuel muni d'accoudoirs",
+      "answer": "FAUTEUIL",
+      "row": 2,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Petit siège sans dossier ni bras",
+      "answer": "TABOURET",
+      "row": 3,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Grand meuble fermé par des battants",
+      "answer": "ARMOIRE",
+      "row": 5,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Petit meuble de rangement pour écrire",
+      "answer": "SECRETAIRE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Meuble dont les portes sont en verre",
+      "answer": "VITRINE",
+      "row": 8,
+      "col": 1,
+      "direction": "across",
+      "score": 3,
+      "number": 8
+    },
+    {
+      "clue": "Support pour dormir et se reposer",
+      "answer": "LIT",
+      "row": 9,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Meuble bas à larges tiroirs",
+      "answer": "COMMODE",
+      "row": 11,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Mobilier"
+}

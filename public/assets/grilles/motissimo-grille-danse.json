@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Rythme afro-cubain",
+      "answer": "MAMBO",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Danse traditionnelle vive",
+      "answer": "GIGUE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Représentation exceptionnelle",
+      "answer": "GALA",
+      "row": 0,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Musique du carnaval de Rio",
+      "answer": "SAMBA",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Danse espagnole ou œuvre de Ravel",
+      "answer": "BOLERO",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Spectacle de danse classique",
+      "answer": "BALLET",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Danse argentine passionnée",
+      "answer": "TANGO",
+      "row": 2,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Unité de mouvement",
+      "answer": "PAS",
+      "row": 6,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Chaussons à bouts rigides",
+      "answer": "POINTES",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Danse de Bohême très vive",
+      "answer": "POLKA",
+      "row": 6,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Rythme cubain épicé",
+      "answer": "SALSA",
+      "row": 6,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Prestation d'une seule personne",
+      "answer": "SOLO",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Temple lyrique et chorégraphique",
+      "answer": "OPERA",
+      "row": 10,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Danse"
+}

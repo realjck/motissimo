@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Le plus long fleuve de l'Union traversant dix pays",
+      "answer": "DANUBE",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Capitale grecque considérée comme le berceau de la démocratie",
+      "answer": "ATHENES",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Chaîne de montagnes s'étendant de la France à l'Autriche",
+      "answer": "ALPES",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Ville portugaise située à l'embouchure du Tage",
+      "answer": "LISBONNE",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Royaume du Benelux célèbre pour ses frites et ses BD",
+      "answer": "BELGIQUE",
+      "row": 3,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Royaume occupant la majeure partie de la péninsule ibérique",
+      "answer": "ESPAGNE",
+      "row": 3,
+      "col": 4,
+      "direction": "down",
+      "score": 3,
+      "number": 6
+    },
+    {
+      "clue": "Ville alsacienne où siège le Parlement de l'Union",
+      "answer": "STRASBOURG",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Nation septentrionale surnommée le pays des mille lacs",
+      "answer": "FINLANDE",
+      "row": 8,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Monnaie unique circulant dans la zone éponyme",
+      "answer": "EURO",
+      "row": 8,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "La cité éternelle et capitale de la République italienne",
+      "answer": "ROME",
+      "row": 11,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Europe"
+}

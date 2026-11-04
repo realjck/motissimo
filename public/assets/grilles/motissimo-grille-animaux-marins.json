@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Grand poisson à chair rouge",
+      "answer": "THON",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Plus grand mammifère du monde",
+      "answer": "BALEINE",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Animal fleur des récifs",
+      "answer": "ANEMONE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Oiseau marin qui ne vole pas",
+      "answer": "MANCHOT",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Mollusque à huit bras",
+      "answer": "POULPE",
+      "row": 2,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Petit décapode souvent rose",
+      "answer": "CREVETTE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 6
+    },
+    {
+      "clue": "Grand prédateur des océans",
+      "answer": "REQUIN",
+      "row": 6,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Astérie vivant sur les fonds",
+      "answer": "ETOILE",
+      "row": 6,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Il possède deux longues défenses",
+      "answer": "MORSE",
+      "row": 7,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Poisson qui remonte les rivières",
+      "answer": "SAUMON",
+      "row": 8,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Elle projette un nuage d'encre",
+      "answer": "SEICHE",
+      "row": 10,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Animaux marins"
+}

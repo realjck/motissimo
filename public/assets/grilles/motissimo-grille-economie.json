@@ -1,0 +1,131 @@
+{
+  "words": [
+    {
+      "clue": "Ensemble des ressources financières",
+      "answer": "CAPITAL",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Taxe sur la consommation",
+      "answer": "TVA",
+      "row": 1,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Manque d'argent dans les comptes",
+      "answer": "DEFICIT",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Lieu de rencontre de l'offre et de la demande",
+      "answer": "MARCHE",
+      "row": 1,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Dépense engagée pour produire",
+      "answer": "COUT",
+      "row": 1,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Frais perçus par la banque",
+      "answer": "AGIO",
+      "row": 2,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Contribution financière imposée",
+      "answer": "TAXE",
+      "row": 3,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Action de se procurer un bien",
+      "answer": "ACHAT",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Paye mensuelle de l'employé",
+      "answer": "SALAIRE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Part du capital d'une société anonyme",
+      "answer": "ACTION",
+      "row": 6,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Montant qu'on doit rembourser",
+      "answer": "DETTE",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Somme d'argent prêtée",
+      "answer": "PRET",
+      "row": 8,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Produit intérieur brut",
+      "answer": "PIB",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Lieu où se négocient les valeurs mobilières",
+      "answer": "BOURSE",
+      "row": 10,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Économie"
+}

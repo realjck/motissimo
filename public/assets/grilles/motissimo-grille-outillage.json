@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Sert à serrer, saisir ou couper.",
+      "answer": "PINCE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 1
+    },
+    {
+      "clue": "Appareil électrique pour trouer les murs.",
+      "answer": "PERCEUSE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Idéale pour arracher les pointes.",
+      "answer": "TENAILLE",
+      "row": 1,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Instrument pour serrer les boulons.",
+      "answer": "CLE",
+      "row": 3,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Gros marteau utilisé par le maçon.",
+      "answer": "MASSETTE",
+      "row": 4,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Il entraîne les vis à fente.",
+      "answer": "TOURNEVIS",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 6
+    },
+    {
+      "clue": "Instrument à bulle d'air pour l'horizontalité.",
+      "answer": "NIVEAU",
+      "row": 6,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Tige filetée munie d'une tête.",
+      "answer": "VIS",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Lame dentée pour débiter le bois.",
+      "answer": "SCIE",
+      "row": 8,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Tranche le bois d'un coup de maillet.",
+      "answer": "CISEAU",
+      "row": 9,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Tige d'acier pour tailler la pierre.",
+      "answer": "BURIN",
+      "row": 11,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Outillage"
+}

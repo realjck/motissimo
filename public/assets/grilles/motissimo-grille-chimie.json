@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Gaz très léger pour les ballons",
+      "answer": "HELIUM",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Groupe d'atomes liés entre eux",
+      "answer": "MOLECULE",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Élément le plus léger de l'univers",
+      "answer": "HYDROGENE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Macromolécule à motifs répétés",
+      "answer": "POLYMERE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Métal attiré par un aimant",
+      "answer": "FER",
+      "row": 2,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Transformation de réactifs en produits",
+      "answer": "REACTION",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Récipient cylindrique à fond plat",
+      "answer": "BECHER",
+      "row": 4,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Agent modifiant la vitesse de réaction",
+      "answer": "CATALYSEUR",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Produit d'une réaction acide-base",
+      "answer": "SEL",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Gaz rare utilisé pour l'éclairage",
+      "answer": "NEON",
+      "row": 9,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Chimie"
+}

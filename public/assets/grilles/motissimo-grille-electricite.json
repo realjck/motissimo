@@ -1,0 +1,131 @@
+{
+  "words": [
+    {
+      "clue": "Fil de cuivre enroulé",
+      "answer": "BOBINE",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Extrémité d'un dipôle",
+      "answer": "BORNE",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Élément protecteur qui fond",
+      "answer": "FUSIBLE",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Unité de charge électrique",
+      "answer": "COULOMB",
+      "row": 1,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Électrode négative",
+      "answer": "CATHODE",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Brin de métal conducteur",
+      "answer": "FIL",
+      "row": 3,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Conducteur de retour",
+      "answer": "NEUTRE",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Trajet bouclé du courant",
+      "answer": "CIRCUIT",
+      "row": 4,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Générateur chimique autonome",
+      "answer": "PILE",
+      "row": 5,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Appareil de mesure d'énergie",
+      "answer": "COMPTEUR",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Conducteur gainé de protection",
+      "answer": "CABLE",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Unité d'intensité du courant",
+      "answer": "AMPERE",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Unité d'énergie",
+      "answer": "JOULE",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Qui ne conduit pas",
+      "answer": "ISOLANT",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Électricité"
+}

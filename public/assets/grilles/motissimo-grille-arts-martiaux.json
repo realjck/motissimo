@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "clue": "Large ceinture servant à fermer la veste de combat",
+      "answer": "OBI",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Enchaînement de mouvements codifiés contre un ennemi imaginaire",
+      "answer": "KATA",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Sportif capable de briser des planches d'un coup de main",
+      "answer": "KARATEKA",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Guerrier japonais au service d'un seigneur",
+      "answer": "SAMOURAI",
+      "row": 1,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Lutte japonaise de poids lourds dans un cercle",
+      "answer": "SUMO",
+      "row": 1,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Avantage important marqué lors d'un assaut",
+      "answer": "WAZAARI",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Fléau à deux branches reliées par une chaîne",
+      "answer": "NUNCHAKU",
+      "row": 4,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Lieu où l'on pratique les disciplines de combat",
+      "answer": "DOJO",
+      "row": 4,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Elle indique le grade du pratiquant par sa couleur",
+      "answer": "CEINTURE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Espion ou mercenaire furtif du Japon féodal",
+      "answer": "NINJA",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Sport de combat d'origine japonaise fondé par Jigoro Kano",
+      "answer": "JUDO",
+      "row": 8,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Nom technique de l'uniforme d'entraînement",
+      "answer": "KEIKOGI",
+      "row": 10,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Arts martiaux"
+}

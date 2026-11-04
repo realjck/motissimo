@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Harnais permettant d'attacher la bête.",
+      "answer": "LICOL",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Espace de travail en plein air.",
+      "answer": "CARRIERE",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Élément à sauter lors d'un parcours.",
+      "answer": "OBSTACLE",
+      "row": 1,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Poils ornant le cou de l'animal.",
+      "answer": "CRINIERE",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Grand mammifère herbivore à crinière.",
+      "answer": "CHEVAL",
+      "row": 2,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Allure sautée à deux temps symétriques.",
+      "answer": "TROT",
+      "row": 2,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Anneau métallique suspendu pour soutenir le pied.",
+      "answer": "ETRIER",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Badine servant à solliciter l'animal.",
+      "answer": "CRAVACHE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Lieu clos et couvert pour la pratique.",
+      "answer": "MANEGE",
+      "row": 8,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Partie du harnais placée dans la bouche.",
+      "answer": "MORS",
+      "row": 8,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Allure marchée à quatre temps.",
+      "answer": "PAS",
+      "row": 11,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Équitation"
+}

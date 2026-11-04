@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Arachnide muni d'un aiguillon venimeux",
+      "answer": "SCORPION",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Désert de sable",
+      "answer": "ERG",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Groupe de voyageurs et de bêtes",
+      "answer": "CARAVANE",
+      "row": 1,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Qui se déplace sans cesse",
+      "answer": "NOMADE",
+      "row": 2,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Colline de sable mobile",
+      "answer": "DUNE",
+      "row": 3,
+      "col": 10,
+      "direction": "down",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Animal du désert à deux bosses",
+      "answer": "CHAMEAU",
+      "row": 4,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Température très élevée",
+      "answer": "CHALEUR",
+      "row": 4,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Désert très aride du Chili",
+      "answer": "ATACAMA",
+      "row": 4,
+      "col": 7,
+      "direction": "down",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Camélidé à une seule bosse",
+      "answer": "DROMADAIRE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Désert de pierres et cailloux",
+      "answer": "REG",
+      "row": 8,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Arbre fruitier typique de l'oasis",
+      "answer": "PALMIER",
+      "row": 9,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Déserts"
+}

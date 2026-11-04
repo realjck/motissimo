@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Potage à la betterave typique d'Europe de l'Est",
+      "answer": "BORSCH",
+      "row": 0,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Bâtonnets de pâte frits saupoudrés de sucre en Espagne",
+      "answer": "CHURROS",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Soupe froide à la tomate originaire d'Andalousie",
+      "answer": "GAZPACHO",
+      "row": 1,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Gratin d'aubergines et viande hachée venu de Grèce",
+      "answer": "MOUSSAKA",
+      "row": 2,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Assortiment de petits plats en Grèce ou au Liban",
+      "answer": "MEZE",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Pâte de soja fermentée servant de base aux soupes nippones",
+      "answer": "MISO",
+      "row": 3,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Petites boulettes italiennes de pomme de terre et farine",
+      "answer": "GNOCCHI",
+      "row": 4,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Semoule de blé dur servie avec viande et légumes",
+      "answer": "COUSCOUS",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Bouillon de nouilles de riz très parfumé du Vietnam",
+      "answer": "PHO",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Plat d'origine indienne très épicé et parfumé",
+      "answer": "CURRY",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Petites bouchées chinoises souvent cuites à la vapeur",
+      "answer": "DIMSUM",
+      "row": 10,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Gastronomie (géographie et voyages)"
+}

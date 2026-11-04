@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Volaille qui cacarde",
+      "answer": "OIE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Male barbu du troupeau",
+      "answer": "BOUC",
+      "row": 1,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Petit bondissant cornu",
+      "answer": "CHEVREAU",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Petit fils du terrier",
+      "answer": "LAPEREAU",
+      "row": 1,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Bourrique aux grandes oreilles",
+      "answer": "ANE",
+      "row": 2,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Mâle reproducteur bovin",
+      "answer": "TAUREAU",
+      "row": 3,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Petit du porcin",
+      "answer": "PORCELET",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Habitant du colombier",
+      "answer": "PIGEON",
+      "row": 6,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Petit de la laitiere",
+      "answer": "VEAU",
+      "row": 9,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 8
+    },
+    {
+      "clue": "Oiseau qui fait couac",
+      "answer": "CANE",
+      "row": 11,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Animaux de la ferme"
+}

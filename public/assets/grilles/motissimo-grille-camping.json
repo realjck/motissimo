@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Hébergement léger de loisirs",
+      "answer": "BUNGALOW",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Habitation mobile tractée",
+      "answer": "CARAVANE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Activités ludiques au club",
+      "answer": "JEUX",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Récipient isolant pour les vivres",
+      "answer": "GLACIERE",
+      "row": 1,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Fourgon aménagé pour dormir",
+      "answer": "VAN",
+      "row": 1,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Guide pour trouver le nord",
+      "answer": "BOUSSOLE",
+      "row": 2,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Plan d'eau pour la détente",
+      "answer": "LAC",
+      "row": 3,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Anneau métallique de fixation",
+      "answer": "MOUSQUETON",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Moyen de transport sur les pistes",
+      "answer": "VELO",
+      "row": 8,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Accessoire pour maintenir la structure",
+      "answer": "PIQUET",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Camping"
+}

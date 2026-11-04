@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Masse terrestre isolée par les eaux.",
+      "answer": "ILE",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Bordure de la terre longeant la mer.",
+      "answer": "LITTORAL",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Forme géométrique de base pour l'arpentage.",
+      "answer": "TRIANGLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 2,
+      "number": 3
+    },
+    {
+      "clue": "Demi-cercle imaginaire joignant les pôles.",
+      "answer": "MERIDIEN",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Rapport entre la réalité et le dessin.",
+      "answer": "ECHELLE",
+      "row": 0,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Orient du levant.",
+      "answer": "EST",
+      "row": 1,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Distance angulaire par rapport à l'Équateur.",
+      "answer": "LATITUDE",
+      "row": 3,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Clé de lecture des symboles.",
+      "answer": "LEGENDE",
+      "row": 5,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Cercle imaginaire à la surface du globe.",
+      "answer": "PARALLELE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Représentation détaillée d'une ville.",
+      "answer": "PLAN",
+      "row": 9,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Ensemble des inégalités du sol.",
+      "answer": "RELIEF",
+      "row": 11,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Cartographie"
+}

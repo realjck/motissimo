@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Ustensile de cuisine pour faire sauter les mets",
+      "answer": "WOK",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Capitale millénaire du Vietnam",
+      "answer": "HANOI",
+      "row": 0,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Grand cours d'eau du Sud-Est asiatique",
+      "answer": "MEKONG",
+      "row": 1,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Le point culminant de notre planète",
+      "answer": "EVEREST",
+      "row": 1,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Femme d'art et de culture traditionnelle",
+      "answer": "GEISHA",
+      "row": 1,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Ville de la Cité interdite",
+      "answer": "PEKIN",
+      "row": 2,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Créature légendaire très présente au Nouvel An",
+      "answer": "DRAGON",
+      "row": 4,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Vêtement féminin composé d'une longue bande d'étoffe",
+      "answer": "SARI",
+      "row": 4,
+      "col": 8,
+      "direction": "across",
+      "score": 2,
+      "number": 8
+    },
+    {
+      "clue": "Noble guerrier du Japon féodal",
+      "answer": "SAMOURAI",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Plat de nouilles dans un bouillon très chaud",
+      "answer": "RAMEN",
+      "row": 6,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Petit pays enclavé de la péninsule indochinoise",
+      "answer": "LAOS",
+      "row": 7,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Récit dessiné originaire du Japon",
+      "answer": "MANGA",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Gros mammifère noir et blanc friand de bambou",
+      "answer": "PANDA",
+      "row": 10,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Asie"
+}

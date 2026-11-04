@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Anneau de caoutchouc monté sur la jante.",
+      "answer": "PNEU",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Perte d'adhérence des roues sur le sol.",
+      "answer": "DERAPAGE",
+      "row": 1,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Voiture fermée à quatre portes et quatre fenêtres.",
+      "answer": "BERLINE",
+      "row": 2,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Elle fournit le courant nécessaire au démarrage.",
+      "answer": "BATTERIE",
+      "row": 2,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Cadre rigide supportant la carrosserie.",
+      "answer": "CHASSIS",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Compartiment situé à l'arrière pour les bagages.",
+      "answer": "COFFRE",
+      "row": 4,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Dispositif provoquant l'étincelle dans le moteur.",
+      "answer": "ALLUMAGE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 6
+    },
+    {
+      "clue": "Il transforme l'énergie en mouvement.",
+      "answer": "MOTEUR",
+      "row": 6,
+      "col": 6,
+      "direction": "down",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Produit pétrolier volatil utilisé comme carburant.",
+      "answer": "ESSENCE",
+      "row": 9,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Endroit où l'on range ou répare l'auto.",
+      "answer": "GARAGE",
+      "row": 11,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Automobile"
+}

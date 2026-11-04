@@ -1,0 +1,113 @@
+{
+  "words": [
+    {
+      "clue": "Film de courte durée",
+      "answer": "COURT",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Lieu de production",
+      "answer": "STUDIO",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Appareil de prise de vue",
+      "answer": "CAMERA",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Ville du célèbre festival",
+      "answer": "CANNES",
+      "row": 1,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Texte du film",
+      "answer": "SCRIPT",
+      "row": 1,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Second volet d’un film",
+      "answer": "SUITE",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Comédien de plateau",
+      "answer": "ACTEUR",
+      "row": 3,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Assemblage des prises",
+      "answer": "MONTAGE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Film sans paroles",
+      "answer": "MUET",
+      "row": 6,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Toile blanche",
+      "answer": "ECRAN",
+      "row": 8,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Marque le début de prise",
+      "answer": "CLAP",
+      "row": 8,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Vedette de l’écran",
+      "answer": "STAR",
+      "row": 10,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Cinéma"
+}

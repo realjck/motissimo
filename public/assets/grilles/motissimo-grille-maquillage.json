@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Brume pour prolonger la tenue.",
+      "answer": "FIXATEUR",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Trace un trait noir au ras des cils.",
+      "answer": "EYELINER",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Allonge et recourbe les cils.",
+      "answer": "MASCARA",
+      "row": 2,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Se dit d'un fini sans aucun reflet.",
+      "answer": "MAT",
+      "row": 2,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Instrument aux poils souples.",
+      "answer": "PINCEAU",
+      "row": 2,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "On les gaine de noir pour le regard.",
+      "answer": "CILS",
+      "row": 3,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Coffret contenant plusieurs nuances.",
+      "answer": "PALETTE",
+      "row": 4,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Petit éclat brillant pour les fêtes.",
+      "answer": "PAILLETTE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Couleur et aspect du visage.",
+      "answer": "TEINT",
+      "row": 7,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "On le dépose sur la bouche.",
+      "answer": "ROUGE",
+      "row": 8,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Laque colorée pour les ongles.",
+      "answer": "VERNIS",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Maquillage"
+}

@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Ensemble de vers formant un groupe",
+      "answer": "STROPHE",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Introduction d'un ouvrage",
+      "answer": "PROLOGUE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Division d'un livre",
+      "answer": "CHAPITRE",
+      "row": 2,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Conclusion d'une œuvre",
+      "answer": "EPILOGUE",
+      "row": 2,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Celui qui publie des ouvrages",
+      "answer": "EDITEUR",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Créateur d'une œuvre écrite",
+      "answer": "AUTEUR",
+      "row": 4,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Jugement sur une œuvre",
+      "answer": "CRITIQUE",
+      "row": 4,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Action ou trame d'une histoire",
+      "answer": "INTRIGUE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Poème lyrique court",
+      "answer": "ODE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Texte placé en tête d'un livre",
+      "answer": "PREFACE",
+      "row": 11,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Littérature"
+}

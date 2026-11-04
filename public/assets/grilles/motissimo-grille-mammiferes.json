@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Énorme mammifère marin",
+      "answer": "BALEINE",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Animal marin très sociable",
+      "answer": "DAUPHIN",
+      "row": 2,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Animal que l'on chevauche",
+      "answer": "CHEVAL",
+      "row": 4,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Petit rongeur de maison",
+      "answer": "SOURIS",
+      "row": 4,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Il saute avec sa poche",
+      "answer": "KANGOUROU",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 5
+    },
+    {
+      "clue": "Animal gris d'Australie",
+      "answer": "KOALA",
+      "row": 6,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Animal roux très rusé",
+      "answer": "RENARD",
+      "row": 6,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Rongeur à longue queue",
+      "answer": "RAT",
+      "row": 7,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Roi de la savane",
+      "answer": "LION",
+      "row": 8,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Elle vit dans l'eau douce",
+      "answer": "LOUTRE",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Mammifères"
+}

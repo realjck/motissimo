@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Ensemble des animaux d'une région",
+      "answer": "FAUNE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Astre où nous habitons",
+      "answer": "PLANETE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Résidu inutilisé à rejeter",
+      "answer": "DECHET",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Liquide vital pour tous les êtres",
+      "answer": "EAU",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Salir durablement l'environnement",
+      "answer": "POLLUER",
+      "row": 1,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Élément rejeté par les usines",
+      "answer": "CARBONE",
+      "row": 2,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Nocif pour les organismes vivants",
+      "answer": "TOXIQUE",
+      "row": 3,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Le sol sous nos pieds",
+      "answer": "TERRE",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Action de séparer les ordures",
+      "answer": "TRI",
+      "row": 4,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Énergie provenant de notre étoile",
+      "answer": "SOLAIRE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Ensemble des plantes d'une région",
+      "answer": "FLORE",
+      "row": 7,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Qui respecte le futur de la Terre",
+      "answer": "DURABLE",
+      "row": 8,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Composant majoritaire de l'air",
+      "answer": "AZOTE",
+      "row": 11,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Écologie"
+}

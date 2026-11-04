@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Mouvement du corps",
+      "answer": "GESTE",
+      "row": 0,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Espace de jeu",
+      "answer": "SCENE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 2,
+      "number": 2
+    },
+    {
+      "clue": "Pause entre deux actes",
+      "answer": "ENTRACTE",
+      "row": 2,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Envers du décor",
+      "answer": "COULISSE",
+      "row": 2,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Remplaçant de l'acteur",
+      "answer": "DOUBLURE",
+      "row": 4,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Synonyme de la scène",
+      "answer": "PLANCHE",
+      "row": 5,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Habillage de la scène",
+      "answer": "DECOR",
+      "row": 5,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Partition du comédien",
+      "answer": "ROLE",
+      "row": 5,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Parole d'un personnage",
+      "answer": "REPLIQUE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Pièce pour se préparer",
+      "answer": "LOGE",
+      "row": 8,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Genre pour rire",
+      "answer": "COMEDIE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Théâtre"
+}

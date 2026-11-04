@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Établissement de soins",
+      "answer": "HOPITAL",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Bande protectrice",
+      "answer": "PANSEMENT",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Agent pathogène",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Tuyau d'exploration",
+      "answer": "SONDE",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Fluide circulatoire",
+      "answer": "SANG",
+      "row": 2,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Instrument à aiguille",
+      "answer": "SERINGUE",
+      "row": 2,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Praticien diplômé",
+      "answer": "DOCTEUR",
+      "row": 3,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Examen d'un fragment",
+      "answer": "BIOPSIE",
+      "row": 5,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Substance de soin",
+      "answer": "MEDICAMENT",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Lame tranchante",
+      "answer": "SCALPEL",
+      "row": 9,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Traitement curatif",
+      "answer": "REMEDE",
+      "row": 11,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Médecine"
+}

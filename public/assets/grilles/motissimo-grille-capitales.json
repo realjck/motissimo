@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "La capitale de la République tchèque.",
+      "answer": "PRAGUE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Capitale de la Pologne, reconstruite après la guerre.",
+      "answer": "VARSOVIE",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Ville de la valse et des Habsbourg.",
+      "answer": "VIENNE",
+      "row": 0,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Elle est traversée par la Tamise.",
+      "answer": "LONDRES",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Elle abrite le célèbre musée du Prado.",
+      "answer": "MADRID",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Berceau de la démocratie et de l'Acropole.",
+      "answer": "ATHENES",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Elle se situe au fond d'un fjord norvégien.",
+      "answer": "OSLO",
+      "row": 2,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Proche du site antique de Carthage.",
+      "answer": "TUNIS",
+      "row": 3,
+      "col": 7,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Elle s'étend sur sept collines face au Tage.",
+      "answer": "LISBONNE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Cœur politique de l'Allemagne réunifiée.",
+      "answer": "BERLIN",
+      "row": 6,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Patrie de Guinness sur l'île d'émeraude.",
+      "answer": "DUBLIN",
+      "row": 10,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Capitales"
+}

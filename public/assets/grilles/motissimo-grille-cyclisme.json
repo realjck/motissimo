@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Point de passage entre deux versants.",
+      "answer": "COL",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Épreuve se déroulant sur un circuit urbain.",
+      "answer": "CRITERIUM",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Coureur capable de maintenir une vitesse élevée.",
+      "answer": "ROULEUR",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Enceinte sportive avec une piste ovale.",
+      "answer": "VELODROME",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Cycliste à l'aise dans les fortes pentes.",
+      "answer": "GRIMPEUR",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Support sur lequel s'assoit le cycliste.",
+      "answer": "SELLE",
+      "row": 5,
+      "col": 8,
+      "direction": "down",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Système permettant de changer de développement.",
+      "answer": "DERAILLEUR",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Partie d'une course disputée en une journée.",
+      "answer": "ETAPE",
+      "row": 6,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Tenue distinctive portée par le leader.",
+      "answer": "MAILLOT",
+      "row": 8,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Équipement servant à arrêter la roue.",
+      "answer": "FREIN",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Cyclisme"
+}

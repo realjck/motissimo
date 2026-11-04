@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Déplacement latéral dû au vent ou au courant.",
+      "answer": "DERIVE",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Personnel chargé de la marche du navire.",
+      "answer": "EQUIPAGE",
+      "row": 0,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Large tissu utilisé pour la propulsion.",
+      "answer": "VOILE",
+      "row": 0,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Stationnement d'un navire sur son ancre.",
+      "answer": "MOUILLAGE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Instrument qui indique le Nord magnétique.",
+      "answer": "BOUSSOLE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Côté droit d'un navire.",
+      "answer": "TRIBORD",
+      "row": 1,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Lest plat situé sous la coque.",
+      "answer": "QUILLE",
+      "row": 5,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Appareil servant à diriger un navire.",
+      "answer": "GOUVERNAIL",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Pièce de bois ou de métal dressée pour les voiles.",
+      "answer": "MAT",
+      "row": 9,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Pause effectuée par un navire durant son voyage.",
+      "answer": "ESCALE",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Navigation"
+}

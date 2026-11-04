@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Outil de détection sonore",
+      "answer": "SONAR",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Concentration de sel",
+      "answer": "SALINITE",
+      "row": 1,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Courbe de profondeur",
+      "answer": "ISOBATHE",
+      "row": 1,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Bassin d'eau turquoise",
+      "answer": "LAGON",
+      "row": 3,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Gigantesque réserve d'eau",
+      "answer": "OCEAN",
+      "row": 3,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Flux d'eau marine",
+      "answer": "COURANT",
+      "row": 3,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Vie errante microscopique",
+      "answer": "PLANCTON",
+      "row": 4,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Faune et flore des fonds",
+      "answer": "BENTHOS",
+      "row": 5,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Embouchure fluviale",
+      "answer": "ESTUAIRE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Banc de rochers affleurants",
+      "answer": "RECIF",
+      "row": 7,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Île corallienne circulaire",
+      "answer": "ATOLL",
+      "row": 7,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Dépression sous-marine profonde",
+      "answer": "FOSSE",
+      "row": 11,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Pierre riche en métaux du fond",
+      "answer": "NODULE",
+      "row": 11,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Océanographie"
+}

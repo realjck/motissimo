@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Symbole des îles tropicales",
+      "answer": "HIBISCUS",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Reine des jardins",
+      "answer": "ROSE",
+      "row": 0,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Plante tropicale raffinée",
+      "answer": "ORCHIDEE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Grosse fleur de printemps",
+      "answer": "PIVOINE",
+      "row": 1,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Pompon jaune d'hiver",
+      "answer": "MIMOSA",
+      "row": 3,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Petite fleur des bois",
+      "answer": "VIOLETTE",
+      "row": 3,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Grappe parfumée du printemps",
+      "answer": "LILAS",
+      "row": 4,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Fleur au nom de messagère",
+      "answer": "IRIS",
+      "row": 4,
+      "col": 7,
+      "direction": "across",
+      "score": 2,
+      "number": 8
+    },
+    {
+      "clue": "Elle annonce le printemps en jaune",
+      "answer": "JONQUILLE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Elle aime son reflet",
+      "answer": "NARCISSE",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Fleurs"
+}

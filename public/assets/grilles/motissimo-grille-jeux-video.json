@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Accessoire pour diriger l'action",
+      "answer": "MANETTE",
+      "row": 0,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Étape à franchir dans un jeu",
+      "answer": "NIVEAU",
+      "row": 1,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Lieu public avec des bornes",
+      "answer": "ARCADE",
+      "row": 2,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Personne qui tient la manette",
+      "answer": "JOUEUR",
+      "row": 3,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Erreur technique ou bug visuel",
+      "answer": "GLITCH",
+      "row": 5,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Accessoire indispensable du PC",
+      "answer": "SOURIS",
+      "row": 5,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Machine pour jouer au salon",
+      "answer": "CONSOLE",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Puzzle avec des blocs qui tombent",
+      "answer": "TETRIS",
+      "row": 8,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Héros portant une tunique verte",
+      "answer": "LINK",
+      "row": 8,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Studio de création indépendant",
+      "answer": "INDE",
+      "row": 9,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Lieu d'apparition du personnage",
+      "answer": "SPAWN",
+      "row": 10,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Jeux vidéo"
+}

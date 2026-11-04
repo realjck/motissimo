@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Amas de milliards d'astres",
+      "answer": "GALAXIE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Le colosse gazeux",
+      "answer": "JUPITER",
+      "row": 0,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Globe en rotation",
+      "answer": "PLANETE",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Agence spatiale européenne",
+      "answer": "ESA",
+      "row": 1,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Corps céleste brillant",
+      "answer": "ASTRE",
+      "row": 2,
+      "col": 6,
+      "direction": "across",
+      "score": 2,
+      "number": 5
+    },
+    {
+      "clue": "Œil braqué sur le ciel",
+      "answer": "TELESCOPE",
+      "row": 2,
+      "col": 8,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "La planète rouge",
+      "answer": "MARS",
+      "row": 3,
+      "col": 1,
+      "direction": "across",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Géante aux anneaux",
+      "answer": "SATURNE",
+      "row": 3,
+      "col": 4,
+      "direction": "down",
+      "score": 1,
+      "number": 8
+    },
+    {
+      "clue": "Satellite naturel terrestre",
+      "answer": "LUNE",
+      "row": 4,
+      "col": 8,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    },
+    {
+      "clue": "Ombre portée céleste",
+      "answer": "ECLIPSE",
+      "row": 4,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Nuage de gaz et poussière",
+      "answer": "NEBULEUSE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 11
+    },
+    {
+      "clue": "Planète bleue glacée",
+      "answer": "URANUS",
+      "row": 8,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Engin spatial réutilisable",
+      "answer": "NAVETTE",
+      "row": 10,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Espace"
+}

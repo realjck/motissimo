@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Membre pour planer.",
+      "answer": "AILE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Qualifie un plésiosaure.",
+      "answer": "MARIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Lieu d'exposition des ossements.",
+      "answer": "MUSEE",
+      "row": 0,
+      "col": 10,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Lieu de ponte.",
+      "answer": "NID",
+      "row": 1,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Âge d'or des colosses.",
+      "answer": "JURASSIQUE",
+      "row": 1,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Marque de pas dans le sol.",
+      "answer": "EMPREINTE",
+      "row": 3,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Plaque rigide sur la peau.",
+      "answer": "ECAILLE",
+      "row": 4,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Excroissance sur la tête.",
+      "answer": "CRETE",
+      "row": 5,
+      "col": 8,
+      "direction": "down",
+      "score": 2,
+      "number": 8
+    },
+    {
+      "clue": "Redoutable prédateur bipède.",
+      "answer": "ALLOSAURUS",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 9
+    },
+    {
+      "clue": "Membre arrière faisant balancier.",
+      "answer": "QUEUE",
+      "row": 7,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Charpente d'os retrouvée.",
+      "answer": "SQUELETTE",
+      "row": 9,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Partie dure de la bouche.",
+      "answer": "BEC",
+      "row": 10,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    },
+    {
+      "clue": "Résine fossile jaune.",
+      "answer": "AMBRE",
+      "row": 11,
+      "col": 7,
+      "direction": "across",
+      "score": 1,
+      "number": 13
+    }
+  ],
+  "size": 12,
+  "theme": "Dinosaures"
+}

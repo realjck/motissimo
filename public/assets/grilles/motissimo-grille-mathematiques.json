@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Réseau de points",
+      "answer": "GRAPHE",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Côté adjacent sur hypoténuse",
+      "answer": "COSINUS",
+      "row": 0,
+      "col": 5,
+      "direction": "down",
+      "score": 2,
+      "number": 2
+    },
+    {
+      "clue": "Ligne ronde",
+      "answer": "CERCLE",
+      "row": 0,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Rapport de deux entiers",
+      "answer": "FRACTION",
+      "row": 1,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Corde passant par le centre",
+      "answer": "DIAMETRE",
+      "row": 2,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Solide à faces triangulaires",
+      "answer": "PYRAMIDE",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Indivisible",
+      "answer": "PREMIER",
+      "row": 3,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Force de l'exposant",
+      "answer": "PUISSANCE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "clue": "Position précise",
+      "answer": "POINT",
+      "row": 6,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Élément d'un produit",
+      "answer": "FACTEUR",
+      "row": 9,
+      "col": 5,
+      "direction": "across",
+      "score": 1,
+      "number": 8
+    }
+  ],
+  "size": 12,
+  "theme": "Mathématiques"
+}

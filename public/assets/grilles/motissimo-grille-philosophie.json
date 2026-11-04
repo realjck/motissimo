@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "clue": "Il prône l'impassibilité face à la douleur.",
+      "answer": "STOICIEN",
+      "row": 0,
+      "col": 1,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Théorie fondant la connaissance sur l'expérience.",
+      "answer": "EMPIRISME",
+      "row": 0,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Orateur de la Grèce antique critiqué par Socrate.",
+      "answer": "SOPHISTE",
+      "row": 2,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Partie de la métaphysique qui étudie l'être.",
+      "answer": "ONTOLOGIE",
+      "row": 2,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Le moi en tant que sujet pensant.",
+      "answer": "EGO",
+      "row": 3,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Tranquillité de l'âme selon les Épicuriens.",
+      "answer": "ATARAXIE",
+      "row": 4,
+      "col": 4,
+      "direction": "across",
+      "score": 2,
+      "number": 6
+    },
+    {
+      "clue": "Branche de la philosophie traitant de la morale.",
+      "answer": "ETHIQUE",
+      "row": 4,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Doctrine niant toute croyance ou valeur.",
+      "answer": "NIHILISME",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Auteur de la \"Critique de la raison pure\".",
+      "answer": "KANT",
+      "row": 8,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Concept abstrait présent dans l'esprit.",
+      "answer": "IDEE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Ce qui définit la nature profonde d'une chose.",
+      "answer": "ESSENCE",
+      "row": 10,
+      "col": 5,
+      "direction": "across",
+      "score": 2,
+      "number": 11
+    }
+  ],
+  "size": 12,
+  "theme": "Philosophie"
+}

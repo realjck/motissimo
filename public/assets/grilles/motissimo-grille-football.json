@@ -1,0 +1,122 @@
+{
+  "words": [
+    {
+      "clue": "Spécialiste de la finition devant les filets.",
+      "answer": "BUTTEUR",
+      "row": 0,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Sphère de cuir gonflée d'air.",
+      "answer": "BALLON",
+      "row": 0,
+      "col": 0,
+      "direction": "down",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Schéma de jeu défini avant la rencontre.",
+      "answer": "TACTIQUE",
+      "row": 0,
+      "col": 2,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Structure métallique munie d'un filet.",
+      "answer": "CAGE",
+      "row": 1,
+      "col": 8,
+      "direction": "across",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Directeur de jeu sur le terrain.",
+      "answer": "ARBITRE",
+      "row": 1,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Porteur du brassard de commandement.",
+      "answer": "CAPITAINE",
+      "row": 2,
+      "col": 7,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Herbe soigneusement entretenue.",
+      "answer": "PELOUSE",
+      "row": 3,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Point marqué par une équipe.",
+      "answer": "BUT",
+      "row": 3,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Fidèle qui chante dans les tribunes.",
+      "answer": "SUPPORTER",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Poste situé au cœur du terrain.",
+      "answer": "MILIEU",
+      "row": 6,
+      "col": 11,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Action de frapper vers l'adversaire.",
+      "answer": "TIR",
+      "row": 8,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 10
+    },
+    {
+      "clue": "Formation composée de onze titulaires.",
+      "answer": "EQUIPE",
+      "row": 9,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 11
+    },
+    {
+      "clue": "Transversale adressée vers la surface.",
+      "answer": "CENTRE",
+      "row": 10,
+      "col": 6,
+      "direction": "across",
+      "score": 1,
+      "number": 12
+    }
+  ],
+  "size": 12,
+  "theme": "Football"
+}

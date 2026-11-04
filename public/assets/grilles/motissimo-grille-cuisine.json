@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Grand bol pour servir les légumes verts",
+      "answer": "SALADIER",
+      "row": 0,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Cristal utilisé pour relever le goût",
+      "answer": "SEL",
+      "row": 0,
+      "col": 3,
+      "direction": "down",
+      "score": 2,
+      "number": 1
+    },
+    {
+      "clue": "Ustensile percé pour ramasser la mousse",
+      "answer": "ECUMOIRE",
+      "row": 0,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Ustensile à manche pour frire ou sauter",
+      "answer": "POELE",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Objet creux pour former une pâtisserie",
+      "answer": "MOULE",
+      "row": 2,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Pièce de couvert pour les potages",
+      "answer": "CUILLERE",
+      "row": 2,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Plonger un légume dans l'eau bouillante",
+      "answer": "BLANCHIR",
+      "row": 4,
+      "col": 0,
+      "direction": "across",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Instrument servant à trancher la viande",
+      "answer": "COUTEAU",
+      "row": 4,
+      "col": 4,
+      "direction": "down",
+      "score": 2,
+      "number": 7
+    },
+    {
+      "clue": "Chauffer l'eau jusqu'à l'apparition de bulles",
+      "answer": "BOUILLIR",
+      "row": 6,
+      "col": 2,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Support plat pour transporter les assiettes",
+      "answer": "PLATEAU",
+      "row": 9,
+      "col": 2,
+      "direction": "across",
+      "score": 2,
+      "number": 9
+    }
+  ],
+  "size": 12,
+  "theme": "Cuisine"
+}

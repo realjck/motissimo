@@ -1,0 +1,95 @@
+{
+  "words": [
+    {
+      "clue": "Outil pour étaler la couleur",
+      "answer": "PINCEAU",
+      "row": 0,
+      "col": 3,
+      "direction": "across",
+      "score": 1,
+      "number": 1
+    },
+    {
+      "clue": "Support vertical en bois",
+      "answer": "CHEVALET",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "score": 1,
+      "number": 2
+    },
+    {
+      "clue": "Représentation d'un visage",
+      "answer": "PORTRAIT",
+      "row": 1,
+      "col": 1,
+      "direction": "down",
+      "score": 1,
+      "number": 3
+    },
+    {
+      "clue": "Teinte de cobalt",
+      "answer": "BLEU",
+      "row": 2,
+      "col": 4,
+      "direction": "across",
+      "score": 1,
+      "number": 4
+    },
+    {
+      "clue": "Ébauche rapide",
+      "answer": "ESQUISSE",
+      "row": 3,
+      "col": 3,
+      "direction": "down",
+      "score": 1,
+      "number": 5
+    },
+    {
+      "clue": "Planchette de mélange",
+      "answer": "PALETTE",
+      "row": 3,
+      "col": 9,
+      "direction": "down",
+      "score": 1,
+      "number": 6
+    },
+    {
+      "clue": "Domaine de la création",
+      "answer": "ART",
+      "row": 4,
+      "col": 9,
+      "direction": "across",
+      "score": 1,
+      "number": 7
+    },
+    {
+      "clue": "Peinture légère et diluée",
+      "answer": "AQUARELLE",
+      "row": 6,
+      "col": 1,
+      "direction": "across",
+      "number": 8
+    },
+    {
+      "clue": "Arrière-plan du tableau",
+      "answer": "FOND",
+      "row": 8,
+      "col": 5,
+      "direction": "down",
+      "score": 1,
+      "number": 9
+    },
+    {
+      "clue": "Artiste maniant la brosse",
+      "answer": "PEINTRE",
+      "row": 10,
+      "col": 2,
+      "direction": "across",
+      "score": 1,
+      "number": 10
+    }
+  ],
+  "size": 12,
+  "theme": "Peinture"
+}
