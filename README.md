@@ -1,23 +1,23 @@
 # Motissimo
 
-Collection of 80 French arrow-word puzzles ("mots fléchés") in 8 themed categories.
-Live at https://motissimo.pxly.fr
+Collection de 80 grilles de mots fléchés réparties en 8 catégories thématiques.
+En ligne sur https://motissimo.pxly.fr
 
-Built with React, TypeScript, Vite and Tailwind CSS. Progress is stored in the browser (localStorage).
+Réalisé avec React, TypeScript, Vite et Tailwind CSS. La progression est enregistrée dans le navigateur (localStorage).
 
-## Development
+## Développement
 
-Requires Node.js 22+.
+Nécessite Node.js 22 ou plus.
 
 ```bash
 npm install
 npm run dev      # http://localhost:3000
-npm run build    # outputs to dist/
+npm run build    # génère dist/
 ```
 
-## Deployment
+## Déploiement
 
-Pushing to `main` builds the app and deploys it to GitHub Pages
-(`.github/workflows/deploy.yml`). The custom domain is set by `public/CNAME`.
+Chaque push sur `main` compile l'application et la déploie sur GitHub Pages
+(`.github/workflows/deploy.yml`). Le domaine personnalisé est défini dans `public/CNAME`.
 
-Puzzles live in `public/assets/grilles/` and are listed in `components/HomePage.tsx`.
+Les grilles se trouvent dans `public/assets/grilles/` et sont listées dans `components/HomePage.tsx`.
